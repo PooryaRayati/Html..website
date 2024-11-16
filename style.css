@@ -1,0 +1,62 @@
+h2{
+    color: rgb(14, 133, 113);
+}
+
+@font-face {
+    font-family: "Vazir" ;
+    src: url(vazir-font-v16.1.0/Vazir-Bold.woff2);
+}
+/*@font-face {
+    font-family: "Iran-Sans" ;
+    src: url(A-Iranian-Sans/Iranian\ Sans.ttf);
+}*/
+
+@font-face {
+    font-family: "Vazir-Bold";
+    src: url(vazir-font-v16.1.0/Vazir-Bold.woff2);
+}
+
+
+body{
+    font-family: "Vazir";
+}
+
+.text5{
+    font-family: "Vazir-Bold";
+}
+
+
+
+.list1{
+    list-style: none;
+
+    /* none */
+    /* decimal-leading-zero */
+}
+
+
+.list1 li a{
+    text-decoration: none;
+    color: rgb(71, 8, 112);
+    font-size: 20px;
+}
+
+.box1{
+    background-color: aqua;
+    height: 30px;
+    width: 200px;
+    text-align: center;
+    margin: 50px 150px ;
+
+    border-radius: 30px;
+    border: 5px solid rgb(25, 74, 129) ;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+/* فونت ایران سانس */
